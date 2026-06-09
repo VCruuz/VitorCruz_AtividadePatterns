@@ -2,10 +2,6 @@ package observers;
 
 import observer.TemperatureObserver;
 
-/**
- * Observer concreto que controla o ventilador com base na temperatura.
- * Liga quando temp > 28, desliga caso contrário.
- */
 public class FanController implements TemperatureObserver {
 
     @Override

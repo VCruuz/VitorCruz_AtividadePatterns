@@ -1,8 +1,5 @@
 package notifications;
 
-/**
- * Implementação concreta de notificação via Push.
- */
 public class PushNotification implements Notification {
 
     @Override

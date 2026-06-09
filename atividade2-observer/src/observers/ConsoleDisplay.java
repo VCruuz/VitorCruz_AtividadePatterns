@@ -2,9 +2,6 @@ package observers;
 
 import observer.TemperatureObserver;
 
-/**
- * Observer concreto que exibe a temperatura no console.
- */
 public class ConsoleDisplay implements TemperatureObserver {
 
     @Override

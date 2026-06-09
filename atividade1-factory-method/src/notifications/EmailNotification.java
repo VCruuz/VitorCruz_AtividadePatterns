@@ -1,8 +1,5 @@
 package notifications;
 
-/**
- * Implementação concreta de notificação via Email.
- */
 public class EmailNotification implements Notification {
 
     @Override

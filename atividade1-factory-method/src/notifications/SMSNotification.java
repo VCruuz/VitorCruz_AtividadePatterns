@@ -1,8 +1,5 @@
 package notifications;
 
-/**
- * Implementação concreta de notificação via SMS.
- */
 public class SMSNotification implements Notification {
 
     @Override
